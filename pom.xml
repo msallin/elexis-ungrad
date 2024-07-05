@@ -59,7 +59,7 @@
     <repositories>
         <repository>
             <id>elexis-ungrad</id>
-            <url>http://www.elexis.ch/ungrad2023/ungrad-target</url>
+            <url>http://elexis.ch/ungrad2023/ungrad-target</url>
             <layout>p2</layout>
         </repository>
         <repository>
